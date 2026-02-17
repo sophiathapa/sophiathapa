@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 About Me
 👋 Hi there! I’m Sophia Magar, a passionate Computer Engineering grad with a love for turning ideas into code.<br>💻 Building cool stuff with MERN.<br>🌱 Always learning, always coding, and always curious.<br>🤝 Always open to connect<br>
 
 
@@ -14,8 +14,6 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=sophiathapa&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sophiathapa&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=sophiathapa&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
